@@ -1,2 +1,2 @@
-# bulb-on-off-using-toggle-switch
-bulb-on/off using toggle switch
+# Bulb-on-off-using-toggle-switch
+Bulb-on/off using toggle switch
